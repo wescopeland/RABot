@@ -1,3 +1,7 @@
+This project is archived. For the latest developments with RABot, please see [RABot-Next](https://github.com/RetroAchievements/RABot-Next) instead.
+
+---
+
 # RetroAchievements.org Discord Bot
 
 🤖 **RABot** is the official [RetroAchievements Discord](https://discord.gg/dq2E4hE) bot. If you wanna see it in action, [join the server](https://discord.gg/dq2E4hE) and type `!help`.
